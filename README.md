@@ -15,8 +15,8 @@ based applications by automatically restarting the node application when file ch
 
 5:  npm install mongoose
 
-6. npm install body-parser
+6: npm install body-parser
 
-7. npm install cors
+7: npm install cors
 
 * used Mlab (a mongodb company based in DaaS) for free database creation upto 512MB.
